@@ -1,5 +1,6 @@
 # Usando una máscara en CSS para poner un video de fondo
 
-Demostración:[https://alfonsobueno.com/labs/mascara-css-video/]([https://www.geeksforgeeks.org/](https://alfonsobueno.com/labs/mascara-css-video/)){:target="_blank"}  
+Demostración: [https://alfonsobueno.com/labs/mascara-css-video/](https://alfonsobueno.com/labs/mascara-css-video/)
+
 
 
